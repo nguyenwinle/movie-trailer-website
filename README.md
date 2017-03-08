@@ -26,4 +26,4 @@ This is the file that will launch our page into the web browser and format the w
 
 These are the instances that are created for our movie website and where we will run our program
 
-We use the **open** built-in function will open our program into a web browser
+We use the **open** built-in function that will open our program into a web browser
